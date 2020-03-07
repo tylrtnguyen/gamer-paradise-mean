@@ -4,11 +4,10 @@
 #### Credentials to test Authentication
 #### Email: admin@email.com
 #### Password: Admin2019
-Student ID | Member  | Repo Link 
---- | --- | ---
-101136246 | Quang Pham | [Link to GitHub](https://github.com/quangpham919)
-101140366 | Thong Ba | [Link to GitHub](https://github.com/tylrtnguyen)
-101153320 | Vivek Ketankumar Vaidya | [Link to GitHub](https://github.com/imvivekv09)
+Student ID | Member | Role | Repo Link 
+--- | --- | --- | ---
+101136246 | Quang Pham | Front-End Developer | [Link to GitHub](https://github.com/quangpham919)
+101140366 | Thong Ba | Full Stack Developer | [Link to GitHub](https://github.com/tylrtnguyen)
 
 ### App Feautures:
 - CRUD features for Player
